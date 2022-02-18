@@ -39,57 +39,55 @@ CAPITULO 15: Circuitos RC
 
 Marco Teorico:
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0011.jpg)
 
 Ejercicios:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0005.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0006.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0007.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0008.jpg)
+
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/Tarea%209_page-0009.jpg)
 
 CAPITULO 16: Circuitos RL
 
 Marco Teorico:
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0012.jpg)
 
 Ejercicios:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0002.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0004.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0005.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0006.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0007.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0008.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0009.jpg)
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-8/blob/main/Imagenes/CAP%C3%8DTULO%2016_page-0010.jpg)
 
 Conclusiones:
 
